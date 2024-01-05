@@ -1,6 +1,8 @@
 # IT Company Network Design
 </br>
+
 ![alter text](https://github.com/rbuwaENG/Network-design/blob/main/ss/Capture.JPG?raw=true)
+
 </br>
 This project outlines a comprehensive network design for an IT company with two branches, leveraging RIP routing and VLANs for efficient communication and network management. The simulation is implemented using Cisco Packet Tracer.
 
